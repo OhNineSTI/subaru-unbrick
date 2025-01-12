@@ -1,4 +1,4 @@
-# Subaru 7058 ECU Unbrick Guide
+# Subaru SH7058 ECU Unbrick Guide
 
 ### Currently tested
 - 2009 Subaru STi
